@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiful Islam</h1>
 <h3 align="center">Experienced Software Engineer with 5+ years of expertise in Laravel, Next.js, Elasticsearch, and more. Proficient in the full software development lifecycle, I am dedicated to delivering top-notch results by leveraging my experience and initiative.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulalltime&label=Profile%20views&color=0e75b6&style=flat" alt="saifulalltime" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifulalltime" alt="saifulalltime" /></a> </p>
 
 - 🔭 I’m currently working on **Supply Chain Management Software**
 
